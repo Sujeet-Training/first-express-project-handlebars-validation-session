@@ -13,5 +13,9 @@
     "jade": "~1.11.0",
     "morgan": "~1.8.1",
     "serve-favicon": "~2.4.2"
-  }
+  },
+  "main": "www",
+  "repository": "https://github.com/sujeet-kr/first-express-project.git",
+  "author": "sujeet-kr <sujeet.kr@hotmail.com>",
+  "license": "MIT"
 }
